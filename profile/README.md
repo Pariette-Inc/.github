@@ -6,9 +6,12 @@
 
 <br/><br/>
 
-# PARIETTE<span>®</span>
+# PARIETTE®
 
-### We build the software behind what’s next.
+<sub>━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</sub>
+
+## SOFTWARE IS OUR MEDIUM.
+## ENGINEERING IS OUR LANGUAGE.
 
 **Independent products. Custom-built systems. One engineering discipline.**
 
@@ -17,7 +20,7 @@ From foundational infrastructure to everyday digital experiences.
 
 <br/>
 
-**[EXPLORE PARIETTE ↗](https://pariette.com)** &nbsp;&nbsp; · &nbsp;&nbsp; **[GET IN TOUCH ↗](https://pariette.com)**
+**[WEBSITE ↗](https://pariette.com)** &nbsp;&nbsp; · &nbsp;&nbsp; **[CONTACT ↗](mailto:tech@pariette.com)****
 
 <br/>
 
@@ -152,6 +155,8 @@ AI-assisted advertising management, campaign optimization and performance analys
 
 <sub>03 &nbsp; / &nbsp; UNDER THE HOOD</sub>
 
+<sub>APPLICATION &nbsp; → &nbsp; API / SDK &nbsp; → &nbsp; SERVICES &nbsp; → &nbsp; DATA &nbsp; → &nbsp; CLOUD</sub>
+
 ## Built to work. Engineered to last.
 
 **Web applications &nbsp; / &nbsp; Cloud infrastructure &nbsp; / &nbsp; Distributed services**<br/>
@@ -201,7 +206,8 @@ We believe thoughtful engineering makes powerful systems easier to use, integrat
 
 <br/>
 
-### BUILD WHAT MATTERS.
+### BUILT TO SOLVE.
+### ENGINEERED TO LAST.
 
 **[pariette.com ↗](https://pariette.com)**
 
