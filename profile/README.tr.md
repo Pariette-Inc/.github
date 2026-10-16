@@ -10,10 +10,7 @@
 
 # PARIETTE®
 
-<sub>━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</sub>
-
-## YAZILIM BİZİM ÜRETİM ALANIMIZ.
-## MÜHENDİSLİK BİZİM DİLİMİZ.
+### Geleceği şekillendiren yazılımları geliştiriyoruz.
 
 **Bağımsız ürünler. İşletmelere özel sistemler. Tek mühendislik disiplini.**
 
@@ -22,7 +19,7 @@ Temel yazılım altyapılarından günlük hayatı kolaylaştıran dijital deney
 
 <br/>
 
-**[WEB SİTESİ ↗](https://pariette.com)** &nbsp;&nbsp; · &nbsp;&nbsp; **[İLETİŞİM ↗](mailto:tech@pariette.com)**
+**[PARIETTE'Yİ KEŞFET ↗](https://pariette.com)** &nbsp;&nbsp; · &nbsp;&nbsp; **[İLETİŞİME GEÇ ↗](https://pariette.com)**
 
 <br/>
 
@@ -157,8 +154,6 @@ Yapay zekâ destekli reklam yönetimi, kampanya optimizasyonu ve performans anal
 
 <sub>03 &nbsp; / &nbsp; TEKNİK ALTYAPI</sub>
 
-<sub>APPLICATION &nbsp; → &nbsp; API / SDK &nbsp; → &nbsp; SERVICES &nbsp; → &nbsp; DATA &nbsp; → &nbsp; CLOUD</sub>
-
 ## Çalışması için geliştirildi. Uzun ömürlü olması için tasarlandı.
 
 **Web uygulamaları &nbsp; / &nbsp; Bulut altyapısı &nbsp; / &nbsp; Dağıtık servisler**<br/>
@@ -208,8 +203,7 @@ Karmaşıklığın bir özellik olduğuna inanmıyoruz.<br/>
 
 <br/>
 
-### ÇÖZMEK İÇİN GELİŞTİRİLDİ.
-### UZUN ÖMÜRLÜ OLMASI İÇİN TASARLANDI.
+### DEĞER YARATAN ŞEYLER GELİŞTİR.
 
 **[pariette.com ↗](https://pariette.com)**
 
