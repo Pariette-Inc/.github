@@ -72,73 +72,92 @@ Products built to stand on their own — with the engineering discipline to work
 
 <table>
 <tr>
-<td width="50%" valign="top">
+<td width="34%" valign="middle">
 
 <sub>01 / CONTENT & COMMERCE</sub>
 
 ### [SubmitCMS ↗](https://submitcms.com)
 
+</td>
+<td width="66%" valign="middle">
+
 **Content infrastructure without the constraints.**
 
 A multi-tenant, headless content and commerce platform with structured content, localization, APIs and developer SDKs.
 
-<sub>HEADLESS CMS &nbsp; · &nbsp; COMMERCE &nbsp; · &nbsp; API</sub>
+<sub>HEADLESS CMS · COMMERCE · API</sub>
 
 </td>
-<td width="50%" valign="top">
+</tr>
+<tr>
+<td width="34%" valign="middle">
 
 <sub>02 / COMMUNICATIONS</sub>
 
 ### [Signalbird ↗](https://signalbird.io)
 
+</td>
+<td width="66%" valign="middle">
+
 **Messages, delivered with purpose.**
 
 Email and SMS infrastructure for transactional messaging, campaigns, automation and reporting.
 
-<sub>EMAIL &nbsp; · &nbsp; SMS &nbsp; · &nbsp; AUTOMATION</sub>
+<sub>EMAIL · SMS · AUTOMATION</sub>
 
 </td>
 </tr>
 <tr>
-<td width="50%" valign="top">
+<td width="34%" valign="middle">
 
 <sub>03 / PRIVACY & COMPLIANCE</sub>
 
 ### [VeriBenim ↗](https://veribenim.com)
 
+</td>
+<td width="66%" valign="middle">
+
 **Privacy is infrastructure.**
 
 Consent management and privacy tooling designed to support GDPR and KVKK compliance workflows.
 
-<sub>CONSENT &nbsp; · &nbsp; PRIVACY &nbsp; · &nbsp; COMPLIANCE</sub>
+<sub>CONSENT · PRIVACY · COMPLIANCE</sub>
 
 </td>
-<td width="50%" valign="top">
+</tr>
+<tr>
+<td width="34%" valign="middle">
 
 <sub>04 / GLOBAL CONNECTIVITY</sub>
 
 ### [Penyu ↗](https://penyu.io)
 
+</td>
+<td width="66%" valign="middle">
+
 **Go further. Stay connected.**
 
 Travel eSIM connectivity with country and regional data plans, built for a world that moves.
 
-<sub>TRAVEL &nbsp; · &nbsp; ESIM &nbsp; · &nbsp; CONNECTIVITY</sub>
+<sub>TRAVEL · ESIM · CONNECTIVITY</sub>
 
 </td>
 </tr>
 <tr>
-<td colspan="2" valign="top">
+<td width="34%" valign="middle">
 
 <sub>05 / ADVERTISING INTELLIGENCE</sub>
 
 ### [Adall ↗](https://adall.io)
 
+</td>
+<td width="66%" valign="middle">
+
 **Less guesswork. Smarter advertising.**
 
 AI-assisted advertising management, campaign optimization and performance analysis.
 
-<sub>AI &nbsp; · &nbsp; ADVERTISING &nbsp; · &nbsp; OPTIMIZATION</sub>
+<sub>AI · ADVERTISING · OPTIMIZATION</sub>
 
 </td>
 </tr>
