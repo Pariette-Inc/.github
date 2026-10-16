@@ -1,5 +1,7 @@
 <div align="center">
 
+**🇬🇧 ENGLISH &nbsp; | &nbsp; [🇹🇷 TÜRKÇE](README.tr.md)**
+
 <sub>INDEPENDENT SOFTWARE COMPANY &nbsp; / &nbsp; GLOBAL ENGINEERING</sub>
 
 <br/><br/>
