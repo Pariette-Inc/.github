@@ -74,73 +74,92 @@ Her biri bağımsız çalışmak üzere tasarlanan, gerektiğinde birbiriyle uyu
 
 <table>
 <tr>
-<td width="50%" valign="top">
+<td width="34%" valign="middle">
 
 <sub>01 / İÇERİK VE TİCARET</sub>
 
 ### [SubmitCMS ↗](https://submitcms.com)
 
+</td>
+<td width="66%" valign="middle">
+
 **Sınırları aşan içerik altyapısı.**
 
 Yapılandırılmış içerik, çoklu dil desteği, API'ler ve geliştirici SDK'ları sunan, çok kiracılı headless içerik yönetimi ve ticaret platformu.
 
-<sub>HEADLESS CMS &nbsp; · &nbsp; E-TİCARET &nbsp; · &nbsp; API</sub>
+<sub>HEADLESS CMS · E-TİCARET · API</sub>
 
 </td>
-<td width="50%" valign="top">
+</tr>
+<tr>
+<td width="34%" valign="middle">
 
 <sub>02 / İLETİŞİM</sub>
 
 ### [Signalbird ↗](https://signalbird.io)
 
+</td>
+<td width="66%" valign="middle">
+
 **Doğru mesaj. Doğru altyapı.**
 
 İşlemsel mesajlar, kampanyalar, otomasyon ve raporlama için e-posta ve SMS gönderim altyapısı.
 
-<sub>E-POSTA &nbsp; · &nbsp; SMS &nbsp; · &nbsp; OTOMASYON</sub>
+<sub>E-POSTA · SMS · OTOMASYON</sub>
 
 </td>
 </tr>
 <tr>
-<td width="50%" valign="top">
+<td width="34%" valign="middle">
 
 <sub>03 / GİZLİLİK VE UYUMLULUK</sub>
 
 ### [VeriBenim ↗](https://veribenim.com)
 
+</td>
+<td width="66%" valign="middle">
+
 **Gizlilik, altyapının bir parçasıdır.**
 
 KVKK ve GDPR uyumluluk süreçlerini desteklemek için tasarlanmış rıza yönetimi ve gizlilik araçları.
 
-<sub>RIZA YÖNETİMİ &nbsp; · &nbsp; GİZLİLİK &nbsp; · &nbsp; UYUMLULUK</sub>
+<sub>RIZA YÖNETİMİ · GİZLİLİK · UYUMLULUK</sub>
 
 </td>
-<td width="50%" valign="top">
+</tr>
+<tr>
+<td width="34%" valign="middle">
 
 <sub>04 / KÜRESEL BAĞLANTI</sub>
 
 ### [Penyu ↗](https://penyu.io)
 
+</td>
+<td width="66%" valign="middle">
+
 **Daha uzağa git. Bağlantıda kal.**
 
 Hareket hâlindeki dünya için ülke ve bölge bazlı mobil veri paketleri sunan seyahat eSIM platformu.
 
-<sub>SEYAHAT &nbsp; · &nbsp; ESIM &nbsp; · &nbsp; BAĞLANTI</sub>
+<sub>SEYAHAT · ESIM · BAĞLANTI</sub>
 
 </td>
 </tr>
 <tr>
-<td colspan="2" valign="top">
+<td width="34%" valign="middle">
 
 <sub>05 / REKLAM ZEKÂSI</sub>
 
 ### [Adall ↗](https://adall.io)
 
+</td>
+<td width="66%" valign="middle">
+
 **Daha az tahmin. Daha akıllı reklam yönetimi.**
 
 Yapay zekâ destekli reklam yönetimi, kampanya optimizasyonu ve performans analizi.
 
-<sub>YAPAY ZEKÂ &nbsp; · &nbsp; REKLAM &nbsp; · &nbsp; OPTİMİZASYON</sub>
+<sub>YAPAY ZEKÂ · REKLAM · OPTİMİZASYON</sub>
 
 </td>
 </tr>
